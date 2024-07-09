@@ -11,3 +11,4 @@ tld
 #jwt-tool dependency
 pycryptodomex
 wafw00f
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
